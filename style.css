@@ -1,0 +1,90 @@
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.header-title{
+    font-weight: 600;
+}
+.box-one{
+    padding:10px;
+    margin-top: 20px;
+    display: inline-block;
+    border: black 2px solid;
+    text-align: center;
+    
+}
+.box-two{
+    padding:10px;
+    margin-top: 20px;
+    display: inline-block;
+    text-align: center;
+    border: black 2px solid;
+   
+    
+
+}
+.box-three{
+    padding:10px;
+    margin-top: 20px;
+    display: inline-block;
+    text-align: center;
+    border: black 2px solid;
+   
+    
+    
+}
+.box-four{
+    padding:10px;
+    margin-top: 20px;
+    display: inline-block;
+    text-align: center;
+    border: black 2px solid;
+    
+    
+    
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color:white;
+
+
+}
+
+
+.button{
+    background-color: yellow;
+    color:black;
+    padding-left :80px;
+    padding-right:90px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    margin-top: 10px;
+    margin-right: 40%;
+    margin-left: 40%;
+    
+    
+
+}
+button:hover{
+    background-color: green;
+}
+.wholebox{
+    text-align: center;
+}
+.order{
+    background-color: black;
+    color: white;
+    padding:5px;
+}
+order:hover{
+    background-color: yellowgreen;
+}
+.footer__des{
+    margi-top:10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    text-align: center;
+
+}
