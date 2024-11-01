@@ -6,9 +6,10 @@ Features
 Responsive Design: The webpage is fully responsive, ensuring a seamless experience on both desktop and mobile devices.
 User-Friendly Layout: The design focuses on ease of navigation, making it simple for users to view items and place orders.
 Styled with CSS: The webpage utilizes modern CSS techniques to create an appealing and interactive user interface.
+
 Technologies Used
-HTML
-CSS
+* HTML
+* CSS
 
 
 Thank you for Visiting My webpage.
